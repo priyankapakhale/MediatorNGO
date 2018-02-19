@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "662918569277",
+    "firebase_url": "https://mediatorngo.firebaseio.com",
+    "project_id": "mediatorngo",
+    "storage_bucket": "mediatorngo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662918569277:android:ad5a882bf13653c2",
+        "android_client_info": {
+          "package_name": "com.example.priyanka.mediatorngo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662918569277-sit9nuvivhrrgm6qjjv4hapoqs4nrnkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priyanka.mediatorngo",
+            "certificate_hash": "ed7ea13a615d1615421bdc01e88c0e2adca1c669"
+          }
+        },
+        {
+          "client_id": "662918569277-ou2hnku9q13a8r1ft8640cslbqlcl2af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9xOzgj7MzZEFTFHe0eoI5cwvoCEWn0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662918569277-ou2hnku9q13a8r1ft8640cslbqlcl2af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
